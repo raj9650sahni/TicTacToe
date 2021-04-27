@@ -5,5 +5,5 @@
  * @author rajkishore.sahni
  *
  */
-module TicTacToe {
+module TicTacToe1 {
 }
